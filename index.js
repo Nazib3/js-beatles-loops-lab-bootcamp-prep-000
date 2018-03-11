@@ -5,13 +5,3 @@ function theBeatlesPlay(arm, ari) {
   }
   return beatles;
 }
-function johnLennonFacts(arf){
-var exarf = arf;
-  var i=0;
-  while(i<exarf.length) {
-    exarf.push(`${arf[i]}!!!`)
-    i++
-  }
-  return exarf;
-}
-function iLoveTheBeatles(){}
