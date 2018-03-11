@@ -14,3 +14,10 @@ function johnLennonFacts(facts) {
   }
   return arr;
 }
+function iLoveTheBeatles(n){
+  var emptyArr = [];
+  do {
+    emptyArr.push(`I love the Beatles!`);
+    n++;
+  } while(n < 15);
+}
